@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">BacktrackingMaze</string>
+    <string name="app_name">Backtracking Maze</string>
+    <string name="play">PLAY</string>
+    <string name="reset">RESET</string>
+    <string name="exit">EXIT</string>
 </resources>
